@@ -12,7 +12,7 @@ Acesse o site aqui 👉 [clockmundial.netlify.app](https://clockmundial.netlify.
 - ⏰ Exibição em tempo real dos horários mundiais
 - 📍 Filtro por país para localizar cidades específicas
 - 🌗 Alternância entre temas claro e escuro
-- 🇦🇷🇧🇷🇨🇦 Bandeiras para cada cidade
+- Bandeiras para cada cidade
 - 💡 Interface simples, responsiva e moderna
 
 ---
