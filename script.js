@@ -42,7 +42,7 @@ const TOGGLE = () => {
 
 BUTTON.addEventListener("click", TOGGLE);
 
-// Função para alternar tema - parece que faltou no código original, vou criar uma versão simples
+// Função para alternar tema 
 function toggleTheme() {
   const body = document.body;
   if (body.hasAttribute("data-dark-mode") && body.getAttribute("data-dark-mode") === "true") {
